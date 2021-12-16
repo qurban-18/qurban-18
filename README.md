@@ -1,4 +1,4 @@
-[![MasterHead](https://i.postimg.cc/fbymXmh1/github-banner.jpg)](https://github.com/qurban-18)
+[![MasterHead](https://i.postimg.cc/pT4Nfg1z/Twitter-Header-1500x500-px.jpg)](https://github.com/qurban-18)
 
 <h1 align="center">Hi 👋, I'm Qurban Hussain</h1>
 <h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
