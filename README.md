@@ -19,6 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/qurban_4wan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="qurban_4wan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/qurban hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qurban hussain" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/17704357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17704357" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
