@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **qurban807hussain@gmail.com**
 
-- ⚡ Fun fact **I think I am not funny 😅**
+- ⚡ Fun fact **🤔**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
