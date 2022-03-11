@@ -30,11 +30,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qurban-18&theme=react)](https://github.com/qurban-18/github-readme-stats)
 
-<p>
+## Github Status 🏆
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qurban-18&theme=react)](https://github.com/qurban-18/github-readme-stats)</p>
+<img  src="https://github-readme-stats.vercel.app/api?username=qurban-18&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=qurban-18&theme=react" width="48%" >
+<br>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qurban-18&show_icons=true&locale=en" alt="qurban-18" /></p> -->
+![github graph](https://activity-graph.herokuapp.com/graph?username=qurban-18&theme=react-dark)
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qurban-18&" alt="qurban-18" /></p>
 
