@@ -39,5 +39,5 @@
 ![github graph](https://activity-graph.herokuapp.com/graph?username=qurban-18&theme=react-dark)
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qurban-18&" alt="qurban-18" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qurban-18&" alt="qurban-18" /></p> -->
 
