@@ -30,7 +30,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qurban-18&theme=react)](https://github.com/qurban-18/github-readme-stats)</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qurban-18&show_icons=true&locale=en" alt="qurban-18" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qurban-18&show_icons=true&locale=en" alt="qurban-18" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qurban-18&" alt="qurban-18" /></p>
 
