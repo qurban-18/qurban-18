@@ -1,9 +1,11 @@
 [![MasterHead](https://i.postimg.cc/pT4Nfg1z/Twitter-Header-1500x500-px.jpg)](https://github.com/qurban-18)
 
-<h1 align="center">Hi 👋, I'm Qurban Hussain</h1>
+<h1 align="center">Hi 👋, I'm Qurban Hussain</h1> 
 <h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qurban-18&label=Profile%20views&color=0e75b6&style=flat" alt="qurban-18" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qurban-18&label=Profile%20views&color=0e75b6&style=flat" alt="qurban-18" /> </p> 
+
+<a href="https://app.daily.dev/qurban_hussain"><img  align="right" src="https://api.daily.dev/devcards/b7a171d078d64a1d82e4f83370d54e35.png?r=16u" width="400" alt="Qurban Hussain's Dev Card"/></a>
 
 - 🔭 I’m currently working on **eCommerce Admin Panel**
 
