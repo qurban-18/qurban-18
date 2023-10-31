@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **eCommerce Admin Panel**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **Reactjs, JavaScript, Nodejs**
 
