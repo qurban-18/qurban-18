@@ -37,7 +37,7 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=qurban-18&theme=react" width="48%" >
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qurban-18&theme=react)](https://github.com/qurban-18/github-readme-activity-graph)
+[![Qurban's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qurban-18&theme=react)](https://github.com/qurban-18/github-readme-activity-graph)
 <br>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qurban-18&" alt="qurban-18" /></p> -->
