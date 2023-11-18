@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qurban-18&label=Profile%20views&color=0e75b6&style=flat" alt="qurban-18" /> </p> 
 
 
-- 🔭 I’m currently working on **eCommerce Admin Panel**
+- 🔭 I’m currently working on **Management System**
 
 - 🌱 I’m currently learning **NextJS**
 
