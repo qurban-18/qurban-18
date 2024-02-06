@@ -7,9 +7,9 @@ MERN Stack Developer
 I love code!!!
 
 * 🌍  I'm based in Lahore, Pakistan
-* 🖥️  See my portfolio at [My website](http://https://qurban-hussain.netlify.app/)
+* 🖥️  See my portfolio at [My website](http://https://qurban-hussain.vercel.app/)
 * ✉️  You can contact me at [dev.qurbanhussain@proton.me](mailto:dev.qurbanhussain@proton.me)
-* 🚀  I'm currently working on [My new Portfolio😉](https://qurban-hussain.vercel.app/)
+* 🚀  I'm currently working on Courier Portal
 * 🧠  I'm learning Nextjs, TypeScript, Postgresql
 * 🤝  I'm open to collaborating on Other MERN Stack projects
 * ⚡  I love to play cricket
